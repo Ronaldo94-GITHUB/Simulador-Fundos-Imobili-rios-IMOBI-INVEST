@@ -55,18 +55,15 @@ Fontes: Estratégias de FIIs
 
 🧠 **Metodologias Aplicadas**
 
-- **PARA (Tiago Forte)**  
   - Projects: Simulador de FIIs  
   - Areas: Finanças pessoais, Excel, Documentação técnica  
   - Resources: artigos, tutoriais, fórmulas financeiras  
-  - Archives: versões anteriores da planilha  
-
-- **Zettelkasten (Niklas Luhmann)**  
+  - Archives: versões anteriores da planilha
+    
   - Conexões entre notas como:  
     “Juros compostos aumentam patrimônio” ↔ “Dividendos mensais geram renda passiva”  
     “Perfil conservador prioriza Tijolo” ↔ “Perfil agressivo foca em Desenvolvimento”  
 
-- **Evergreen Notes (Andy Matuschak)**  
   - Notas atemporais como:  
     “Investimentos de longo prazo maximizam retorno”  
     “Diversificação reduz riscos”  
@@ -144,7 +141,7 @@ Cada parte inclui:
 ---
 
 👨‍💻 **Pessoa Desenvolvedora do Projeto / Project Developer**  
-- Ronaldo  
+- [Ronaldo](https://github.com/Ronaldo94-GITHUB)
 
 ---
 
