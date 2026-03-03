@@ -1,6 +1,6 @@
 # Simulador-Fundos-Imobili-rios-IMOBI-INVEST
 
-# Projeto Simulador de Fundos Imobiliários — Excel + Documentação Técnica
+# Projeto Simulador de Fundos Imobiliários — Excel + Documentação Técnica + IA Copilot
 
 Este projeto foi desenvolvido como uma experiência prática e estratégica para explorar o uso de **planilhas inteligentes** aplicadas a investimentos em Fundos Imobiliários (FIIs).  
 A proposta é aplicar cálculos financeiros, cenários de longo prazo e perfis de investidor em um modelo organizado, documentado e visualmente ilustrado.
@@ -59,7 +59,7 @@ Fontes: Estratégias de FIIs
   - Areas: Finanças pessoais, Excel, Documentação técnica  
   - Resources: artigos, tutoriais, fórmulas financeiras  
   - Archives: versões anteriores da planilha
-    
+   
   - Conexões entre notas como:  
     “Juros compostos aumentam patrimônio” ↔ “Dividendos mensais geram renda passiva”  
     “Perfil conservador prioriza Tijolo” ↔ “Perfil agressivo foca em Desenvolvimento”  
@@ -70,7 +70,7 @@ Fontes: Estratégias de FIIs
 
 ---
 
-🧠 **Mind Map da Planilha**
+🧠 Planilha**
 Representa a estrutura conceitual do simulador e suas conexões entre entradas, cálculos e resultados.
 
 ---
