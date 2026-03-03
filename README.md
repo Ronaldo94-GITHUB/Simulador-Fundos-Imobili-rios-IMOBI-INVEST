@@ -5,6 +5,7 @@
 Este projeto foi desenvolvido como uma experiência prática e estratégica para explorar o uso de **planilhas inteligentes** aplicadas a investimentos em Fundos Imobiliários (FIIs).  
 A proposta é aplicar cálculos financeiros, cenários de longo prazo e perfis de investidor em um modelo organizado, documentado e visualmente ilustrado.
 
+![Capa do Projeto](CAPA.png)
 ---
 
 📊 **Infográfico da Planilha**
